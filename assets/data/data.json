@@ -1,0 +1,161 @@
+{
+    "title": "Yuber Miranda | Portafolio",
+    "description": "Soy Yuber Miranda.",
+    "image": "/avatar.jpg",
+    "avatar": "/avatar.jpg",
+    "name": "Yuber Esteban Miranda Mojica",
+    "skill": "Programador",
+    "location": "Sogamoso, Boyacá",
+    "media": {
+        "email": "ye_mirandaa@yuber-miranda.website",
+        "cv": "/data/Yuber Miranda - CV.pdf",
+        "github": "https://github.com/MirandaYuber",
+        "likedin": "https://www.linkedin.com/in/yuber-miranda/"
+    },
+    "about": "Soy programador con +2 años de experiencia, actualmente trabajando para Savne S.A.S creando soluciones digitales a medida en diferentes sistemas en constante cambio y evolución usando tecnologías como HTML, CSS, Laravel (PHP), JavaScript (Vue, JQuery) y PostgreSQL.\nTambién he desarrollado aplicaciones de escritorio a medida usando Python.\n\nMe encantaría seguir trabajando en el desarrollo de software ya sea en las tecnologías que ya manejo o en nuevas tecnologías.\n",
+    "technologies": [
+        {
+            "icon": "devicon-html5-plain",
+            "name": "HTML"
+        },
+        {
+            "icon": "devicon-css3-plain",
+            "name": "CSS"
+        },
+        {
+            "icon": "devicon-javascript-plain",
+            "name": "JavaScript"
+        },
+        {
+            "icon": "devicon-vuejs-plain",
+            "name": "Vue"
+        },
+        {
+            "icon": "devicon-jquery-plain",
+            "name": "Jquery"
+        },
+        {
+            "icon": "devicon-laravel-original",
+            "name": "Laravel"
+        },
+        {
+            "icon": "devicon-postgresql-plain",
+            "name": "PostgreSql"
+        },
+        {
+            "icon": "devicon-python-plain",
+            "name": "Python"
+        }
+    ],
+    "experience": [
+        {
+            "icon": "terminal",
+            "title": "Savne S.A.S",
+            "subtitle": "Programador",
+            "description": "Como desarrollador de soluciones en sistemas web y de escritorio, trabajé en colaboración con mi líder de proyectos para comprender requisitos y documentación para el diseño y desarrollo de las nuevas mejoras o soluciones a medida que satisficiera las necesidades específicas que el cliente solicitaba.\nAl haber demostrado un buen desempeño en Python, abrí la puerta a 2 nuevos proyectos que dieron la posibilidad de ofrecer más servicios de desarrollo de software.\n",
+            "date": "Julio 2021 - Actualidad"
+        }
+    ],
+    "projects": [
+        {
+            "icon": "package-open",
+            "title": "HYM Computadores",
+            "subtitle": "Software desarrollado para proyecto de grado",
+            "description": "Proyecto de grado el cual hice un sistema de inventarios aplicando los conocimientos adquiridos, entendiendo como funciona la programación y mejorar la forma de emplear su uso.\n El proyecto cuenta con un inicio de sesión y contiene los siguientes módulos: usuarios, categorias, compras, ventas y productos.",
+            "technologies": [
+                {
+                    "icon": "devicon-html5-plain",
+                    "name": "HTML"
+                },
+                {
+                    "icon": "devicon-css3-plain",
+                    "name": "CSS"
+                },
+                {
+                    "icon": "devicon-javascript-plain",
+                    "name": "JavaScript"
+                },
+                {
+                    "icon": "devicon-nodejs-plain-wordmark",
+                    "name": "Node.Js"
+                },
+                {
+                    "icon": "devicon-jquery-plain",
+                    "name": "Jquery"
+                },
+                {
+                    "icon": "devicon-laravel-original",
+                    "name": "Laravel"
+                },
+                {
+                    "icon": "devicon-mysql-original",
+                    "name": "MySql"
+                }
+            ],
+            "image": "/hym_computadores.jpg",
+            "github": "https://github.com/MirandaYuber/HYMComputadores/tree/master"
+        },
+        {
+            "icon": "code",
+            "title": "Soluciones en varios sistemas web y creación de aplicativos de escritorio",
+            "subtitle": "Proyectos privados",
+            "description": "Desarrollador de soluciones en sistemas web y de escritorio, trabaje en colaboración con mi líder de proyectos para comprender sus requisitos y documentación para el diseño y desarrollo de las nuevas mejoras o soluciones a medida que satisficieran las necesidades específicas que el cliente solicitaba. Al haber demostrado un buen desempeño en Python, abrí la puerta a 2 nuevos proyectos que dieron la posibilidad de ofrecer más servicios de desarrollo de software.",
+            "technologies": [
+                {
+                    "icon": "devicon-html5-plain",
+                    "name": "HTML"
+                },
+                {
+                    "icon": "devicon-css3-plain",
+                    "name": "CSS"
+                },
+                {
+                    "icon": "devicon-javascript-plain",
+                    "name": "JavaScript"
+                },
+                {
+                    "icon": "devicon-vuejs-plain",
+                    "name": "Vue.Js"
+                },
+                {
+                    "icon": "devicon-jquery-plain",
+                    "name": "Jquery"
+                },
+                {
+                    "icon": "devicon-laravel-original",
+                    "name": "Laravel"
+                },
+                {
+                    "icon": "devicon-postgresql-plain",
+                    "name": "PostgreSql"
+                },
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-unifiedmodelinglanguage-plain",
+                    "name": "UML"
+                }
+            ],
+            "image": "/project_2.jpg"
+        }
+    ],
+    "training": [
+        {
+            "icon": "notebook-pen",
+            "title": "Universidad Abierta y a Distancia (UNAD)",
+            "subtitle": "Ingenieria de sistemas",
+            "description": "",
+            "date": "Febrero 2024 - cursando"
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "Sena",
+            "subtitle": "Tecnologo ADSI",
+            "description": "Participe del concurso SenaSoft 2020.",
+            "date": "Marzo 2019 - diciembre 2020",
+            "certificate": "https://drive.google.com/file/d/1TZrqC11InF8Xi5Zzkd8p3dYomTptH1x6/view?usp=sharing"
+        }
+    ]
+}
