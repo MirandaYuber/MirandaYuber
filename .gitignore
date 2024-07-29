@@ -1,7 +1,7 @@
 *.db
 *.py[cod]
+*__init__.py
+.idea
 .venv
 .web
-.idea
-*__init__.py
 __pycache__/
