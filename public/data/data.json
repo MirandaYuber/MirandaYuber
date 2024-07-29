@@ -84,10 +84,6 @@
                     "name": "Jquery"
                 },
                 {
-                    "icon": "devicon-laravel-original",
-                    "name": "Laravel"
-                },
-                {
                     "icon": "devicon-mysql-original",
                     "name": "MySql"
                 }
@@ -155,7 +151,7 @@
             "subtitle": "Tecnologo ADSI",
             "description": "Participe del concurso SenaSoft 2020.",
             "date": "Marzo 2019 - diciembre 2020",
-            "certificate": "https://drive.google.com/file/d/1TZrqC11InF8Xi5Zzkd8p3dYomTptH1x6/view?usp=sharing"
+            "certificate": "/data/Titulo - ADSI.pdf"
         }
     ]
 }
