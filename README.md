@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desarrollador de Software con más de 3 años de experiencia en la creación de soluciones digitales a medida. Actualmente, formo parte de una empresa, donde desarrollo y optimizo sistemas en constante evolución, adaptándolos a las necesidades del negocio. <br><br><br>Tengo experiencia utilizando tecnologías como HTML, CSS, Laravel, JavaScript (Vue.js, jQuery, Node.js, React.js, TypeScript), Python y PostgreSQL. Me apasiona la programación y estoy siempre en busca de nuevos retos y oportunidades de aprendizaje, ya sea perfeccionando mis habilidades actuales o explorando nuevas tecnologías.</p>
+<p align="left">Soy desarrollador de Software con más de 3 años de experiencia en la creación de soluciones digitales a medida. Actualmente, formo parte de una empresa, donde desarrollo y optimizo sistemas en constante evolución, adaptándolos a las necesidades del negocio. <br><br><br>Tengo experiencia utilizando tecnologías como HTML, CSS, Laravel, JavaScript (Vue.js, jQuery, Node.js, React.js, TypeScript), Python y PostgreSQL. Me apasiona la programación y estoy siempre en busca de nuevos retos y oportunidades de aprendizaje, ya sea perfeccionando mis habilidades actuales o explorando nuevas tecnologías.</p>
 
 ###
 
