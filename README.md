@@ -1,5 +1,5 @@
 # 💫 Sobre mí:
-Desarrollador de Software con más de 3 años de experiencia en la creación de soluciones digitales a medida. Actualmente, formo parte de Savne S.A.S, donde desarrollo y optimizo sistemas en constante evolución, adaptándolos a las necesidades del negocio.<br>Tengo experiencia utilizando tecnologías como Laravel (PHP), JavaScript (Vue.js, jQuery), HTML, CSS y PostgreSQL. Me apasiona la programación y estoy siempre en busca de nuevos retos y oportunidades de aprendizaje, ya sea perfeccionando mis habilidades actuales o explorando nuevas tecnologías.
+Desarrollador de Software con más de 3 años de experiencia en la creación de soluciones digitales a medida. Actualmente, formo parte de una empresa donde desarrollo y optimizo sistemas en constante evolución, adaptándolos a las necesidades del negocio.<br>Tengo experiencia utilizando tecnologías como Laravel (PHP), JavaScript (Vue.js, jQuery), HTML, CSS y PostgreSQL. Me apasiona la programación y estoy siempre en busca de nuevos retos y oportunidades de aprendizaje, ya sea perfeccionando mis habilidades actuales o explorando nuevas tecnologías.
 
 
 ## 🌐 Redes sociales:
