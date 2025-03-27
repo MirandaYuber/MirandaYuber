@@ -2,14 +2,7 @@
 
 ###
 
-<p align="left">Soy desarrollador de Software con más de 3 años de experiencia en la creación de soluciones digitales a medida. Actualmente, formo parte de una empresa, donde desarrollo y optimizo sistemas en constante evolución, adaptándolos a las necesidades del negocio. <br><br><br>Tengo experiencia utilizando tecnologías como HTML, CSS, Laravel, JavaScript (Vue.js, jQuery, Node.js, React.js, TypeScript), Python y PostgreSQL. Me apasiona la programación y estoy siempre en busca de nuevos retos y oportunidades de aprendizaje, ya sea perfeccionando mis habilidades actuales o explorando nuevas tecnologías.</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MirandaYuber&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MirandaYuber&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="left">Soy desarrollador de Software con más de 3 años de experiencia en la creación de soluciones digitales a medida. Actualmente, formo parte de una empresa, donde desarrollo y optimizo sistemas en constante evolución, adaptándolos a las necesidades del negocio. <br><br><br>Tengo experiencia utilizando tecnologías como HTML, CSS, Laravel, JavaScript (Vue.js, jQuery, Node.js, React.js, TypeScript), Python, PostgreSQL y Docker. Me apasiona la programación y estoy siempre en busca de nuevos retos y oportunidades de aprendizaje, ya sea perfeccionando mis habilidades actuales o explorando nuevas tecnologías.</p>
 
 ###
 
@@ -37,6 +30,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
 ###
